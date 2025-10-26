@@ -11,11 +11,12 @@ export const router = createHashRouter ([
   {
     path: "/",
     element: <App />,
-    errorElement: <ErrorPage />, // 
+    errorElement: <ErrorPage />, 
     children: [
       { path: "/", element: <FilmListPage /> },
       { path: "/filmes/:id", element: <FilmDetailPage /> },
       { path: "/personagens/:id", element: <PersonagensDetailPage /> }
+        
     ],
   },
 ]);
