@@ -35,14 +35,14 @@ const CharacterDetail = () => {
 
           <div className="gap-3 flex items-center pl-5 w-full h-35">
             <div className="flex flex-col items-center w-max h-full">
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Altura:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Peso:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Cor do cabelo:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Cor da pele:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Cor do olho:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full whitespace-nowrap"><p>Ano de Nascimento:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Gênero:</p></div>
-              <div className="flex items-center font-semibold text-[12px] ml-2 w-full h-full"><p>Planeta Natal:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Altura:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Peso:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Cor do cabelo:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Cor da pele:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Cor do olho:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full whitespace-nowrap"><p>Ano de Nascimento:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Gênero:</p></div>
+              <div className="flex items-center font-semibold text-[12px] sm:ml-2 w-full h-full"><p>Planeta Natal:</p></div>
             </div>
 
             <div className="flex flex-col items-center w-max h-full">

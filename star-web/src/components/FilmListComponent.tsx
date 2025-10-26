@@ -17,12 +17,12 @@ function CardFilmes({ filme }: CardDeFilmesProps) {
       <div id="card-principal" className=" flex flex-col items-center justify-start h-26 w-full  rounded-[22px] bg-green-900/10 border border-green-500/50 backdrop-blur-xs hover:drop-shadow-xl hover:cursor-pointer hover:translate-y-[-5px] hover:shadow-[0px_0px_30px_0px_#00ff96] transition mb-5" >
         
         <div id="sub-card-conteiner" className="flex  flex-col items-center justify-start h-full w-full  ml-5 mt-1 ">
-          <div id="titulo" className="pl-2  text-white w-full h- font-semibold">
+          <div id="titulo" className="ms:pl-2  text-white w-full h- font-semibold">
             <h1>{filme.titulo}</h1>
 
           </div>
 
-          <div id="sub-inf" className=" p-2 gap-2   flex w-full h-max" >
+          <div id="sub-inf" className=" ms:p-2 gap-2   flex w-full h-max" >
 
             <div className="whitespace-nowrap text-white  w-full  h-max  text-[12px] ">
               <h1>Data de Lancamento:</h1>

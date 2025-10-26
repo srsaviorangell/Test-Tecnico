@@ -54,7 +54,7 @@ const CardPersonagem = ({ personagens }: CardPersonagemProps) => {
         <div className="gap-4 flex flex-col w-full h-full">
             {personagensDetalhes.map(({ id, nome }) => (
                 <Link key={id} to={`/personagens/${id}/`}>
-                    <div className="border-b-2 border-[#00ff96] flex items-center justify-between text-[12px] ml-2 sm:ml-6 w-[95%] h-full">
+                    <div className="border-b-2 border-[#00ff96] flex items-center justify-between text-[12px] ml-2 sm:ml-6 w-[92%] sm:w-[95%] h-full">
                         <h1>{nome}</h1>
                         <img src={Expand_content} className="p-2 w-max h-max" />
                     </div>
