@@ -22,14 +22,14 @@ function CardFilmes({ filme }: CardDeFilmesProps) {
 
           </div>
 
-          <div id="sub-inf" className=" p-2 gap-6   flex w-full h-max" >
+          <div id="sub-inf" className=" p-2 gap-2   flex w-full h-max" >
 
-            <div className="text-white w-max  h-max text-[12px]">
+            <div className="whitespace-nowrap text-white  w-full  h-max  text-[12px] ">
               <h1>Data de Lancamento:</h1>
               <h1>Episódio:</h1>
             </div>
-            <div className=" text-white w-max h-max text-[12px] ">
-              <h1>{filme.dataLancamento}</h1>
+            <div className=" text-white w-full h-max text-[12px] ">
+              <h1 className="whitespace-nowrap  ">{filme.dataLancamento}</h1>
               <h1>{filme.ep}</h1>
             </div>
 
