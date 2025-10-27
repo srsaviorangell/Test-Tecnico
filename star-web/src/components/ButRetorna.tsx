@@ -7,7 +7,7 @@ import {useTranslation} from 'react-i18next';
 // sm:left-40
 const BotaoReturn = () =>{
     const navigate = useNavigate();
-    const {t, i18n} = useTranslation();
+    const {t, } = useTranslation();
     return(
         <>
 

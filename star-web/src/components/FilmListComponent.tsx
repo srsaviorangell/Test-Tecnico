@@ -55,7 +55,7 @@ const { t,  } = useTranslation();
 
 function ListFilm() {
   const { filmes, carregamento, error } = useStarWarsFilmes()
-  const {t, i18n} = useTranslation();
+  const {t, } = useTranslation();
 
   const [pesquisa, setPesquisa] = useState("");
   const [termoBuscaConfirmado, setTermoBuscaConfirmado] = useState('');
