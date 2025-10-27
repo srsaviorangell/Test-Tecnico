@@ -3,7 +3,7 @@ import ListFilm from '../components/FilmListComponent.tsx'
 const Home = () =>{
     
     return(
-        <div>
+        <div className="">
             <ListFilm/>
         </div>
     )

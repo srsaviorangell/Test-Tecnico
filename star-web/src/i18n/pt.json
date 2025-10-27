@@ -1,0 +1,93 @@
+{
+    "translation": {
+        "HOMER": "PAGINA INICIAL",
+        "Buscar": "Buscar",
+        "Voltar": "Voltar",
+        "Carregando participação nos filmes": "Carregando participação nos filmes",
+        "Erro ao carregar personagens": "Erro ao carregar personagens.",
+        "Carregando personagens": "Carregando personagens...",
+        "Erro ao carregar filmes": "Erro ao carregar filmes",
+        "Carregando filmes": "Carregando filmes...",
+        "Erro ao carregar Personagem": "Erro ao carregar Personagem:",
+        "Personagem não encontrado": "Personagem não encontrado",
+        "Altura": "Altura",
+        "Peso": "Peso",
+        "Cor do cabelo": "Cor do cabelo",
+        "cor da pele": "cor da pele",
+        "Cor dos olhos": "Cor dos olhos",
+        "Ano de nascimento": "Ano de nascimento",
+        "Gênero": "Gênero",
+        "Planeta Natal": "Planeta Natal",
+        "Filmes": "Filmes",
+        "Carregando detalhes do Filme": "Carregando detalhes do Filme...",
+        "Erro ao carregar detalhes": "Erro ao carregar detalhes:",
+        "Filme não encontrado": "Filme não encontrado",
+        "Data de Lançamento": "Data de Lançamento:",
+        "Episódio": "Episódio",
+        "Diretor": "Diretor",
+        "Produtor": "Produtor",
+        "Personagens": "Personagens",
+        "Carregando": "Carregando",
+       
+        "genero": {
+            "male": "Masculino",
+            "female": "Feminino",
+            "n/a": "Não aplicável"
+        },
+        "CordoCabelo": {
+            "blue ": "Azul",
+            "blond": "Loiro",
+            "brown": "Castanho",
+            "black": "Preto",
+            "red": "Ruivo",
+            "auburn": "Castanho-avermelhado",
+            " white": "Branco",
+            "n/a": "Não aplicável",
+            "none": "Nenhum"
+        },
+        "cordaPele": {
+            "fair": "Prata",
+            "light": "Clara",
+            "light brown": "Marrom claro",
+            "brown": "Marrom",
+            "dark": "Escura",
+            "green": "Verde",
+            "blue": " azul",
+            "gold": "Dourada",
+            "white": "Branca",
+            "white blue": "Branca e azul",
+            "brown grey": "Castanho e cinza",
+            "red": "Vermelha",
+            "n/a": "Não aplicável",
+            "none": "Nenhum"
+        },
+        "corDosOlhos": {
+            
+            "blue": "Azul",
+            "brown": "Castanho",
+            "green": "Verde",
+            "grey": "Cinza",
+            "amber": "Âmbar",
+            "yellow": "Amarelo",
+            "red": "Vermelho",
+            "blue-gray": "Azul acinzentado",
+            "n/a": "Não aplicável"
+        },
+        "nomes": {
+            "A New Hope": "Uma Nova Esperança",
+            "The Empire Strikes Back": "O Império Contra-Ataca",
+            "Return of the Jedi": "O Retorno de Jedi",
+            "The Phantom Menace": "A Ameaça Fantasma",
+            "Attack of the Clones": "Ataque dos Clones",
+            "Revenge of the Sith": "A Vingança dos Sith"
+        },
+        "dataBR": {
+            "1977-05-25": "25/05/1977",
+            "1980-05-17": "17/05/1980",
+            "1983-05-25": "25/05/1983",
+            "1999-05-19": "19/05/1999",
+            "2002-05-16": "16/05/2002",
+            "2005-05-19": "19/05/2005"
+        }
+    }
+}

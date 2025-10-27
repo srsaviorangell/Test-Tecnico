@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { RouterProvider} from "react-router-dom"
 import { router } from "./router/Index.tsx";
 import "./index.css";
+import './i18n/i18n.ts';
 
 
 

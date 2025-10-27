@@ -1,0 +1,54 @@
+{
+  "translation": {
+    "HOMER": "HOME PAGE",
+    "Buscar": "Search",
+    "Voltar": "Back",
+    "Carregando participação nos filmes": "Loading movie participation",
+    "Erro ao carregar personagens": "Error loading characters.",
+    "Carregando personagens": "Loading characters...",
+    "Erro ao carregar filmes": "Error loading movies.",
+    "Carregando filmes": "Loading movies...",
+    "Erro ao carregar Personagem:": "Error loading character:",
+    "Personagem não encontrado": "Character not found",
+    "Altura": "Height",
+    "Peso": "Weight",
+    "Cor do cabelo": "Hair color",
+    "cor da pele": "Skin color",
+    "Cor dos olhos": "Eye color",
+    "Ano de nascimento": "Birth year",
+    "Gênero": "Gender",
+    "Planeta Natal": "Home planet",
+    "Filmes": "Movies",
+    "Carregando detalhes do Filme": "Loading movie details",
+    "Erro ao carregar detalhes": "Error loading details",
+    "Filme não encontrado": "Movie not found",
+    "Data de Lançamento": "Release date",
+    "Episódio": "Episode",
+    "Diretor": "Director",
+    "Produtor": "Producer",
+    "Personagens": "Characters",
+    "Carregando": "Loading",
+    "male": "male",
+    "female": "Feminino",
+    "n/a": "Não aplicável",
+    "none": "Nenhum",
+    "nomes": {
+      "A New Hope": "A New Hope",
+      "The Empire Strikes Back": "The Empire Strikes Back",
+      "Return of the Jedi": "Return of the Jedi",
+      "The Phantom Menace": "The Phantom Menace",
+      "Attack of the Clones": "Attack of the Clones", 
+      "Revenge of the Sith": "Revenge of the Sith"
+    },
+    "dataBR": {
+      "1977-05-25": "1977-05-25",
+      "1980-05-17": "1980-05-17",
+      "1983-05-25": "1983-05-25",
+      "1999-05-19": "1999-05-19",
+      "2002-05-16": "2002-05-16",
+      "2005-05-19": "2005-05-19"
+    }
+  
+  }
+
+}
