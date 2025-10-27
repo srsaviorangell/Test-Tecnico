@@ -7,7 +7,7 @@ import pt from "./pt.json";
 
 i18n.use(initReactI18next).init({
   lng: "en", 
-  fallbackLng: "pt", 
+  fallbackLng: "en", 
   resources: {
     en: { translation: en.translation },
     pt: { translation: pt.translation }
